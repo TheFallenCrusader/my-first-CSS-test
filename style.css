@@ -1,0 +1,41 @@
+body{
+    background-image: url("BG.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.TopLeft{
+    color: #fff;
+    font-family: "consolas";
+    font-weight: bold;
+}
+.TopMiddleLeft{
+    position: absolute;
+    top: 0;
+    left: 25%;
+    color: #fff;
+}
+.TopMiddleMid{
+    position: absolute;
+    top: 0;
+    left: 45%;
+    color: #fff;
+}
+.TopMiddleRight{
+    position: absolute;
+    top: 0;
+    left: 65%;
+    color: #fff;
+}
+
+.TopRight{
+    position: absolute;
+    top: 2.5%;
+    right: 0%;
+}
+.button{
+ 
+}
+.dropdown{
+ opacity: 0;
+}
